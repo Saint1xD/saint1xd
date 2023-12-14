@@ -9,7 +9,7 @@
 - I’m currently learning **Python and Django** and aim to delve deeper into Back-end development.
 - Checkout my portfolio [link](https://troopl.com/joaosaint).
 - I’m currently open for a new job opportunity, this is [my resume](https://flowcv.com/resume/snqp93nika).
-- How to reach me **joaosaintjust@hotmail.com**.
+- You can mail me at **joaosaintjust@hotmail.com**.
 
 <br>
 
