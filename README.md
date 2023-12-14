@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm João</h1>
+<h1 align="center">Hi 👋, I'm Saint</h1>
 <h3 align="center">Full stack developer looking to learn more in this coding world and happy to be here 🙂</h3>
 <br>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 
-- I’m currently learning **Python and Django**
-- Checkout my portfolio [link](https://troopl.com/joaosaint)
-- I’m currently open for a new job opportunity, this is [my resume](https://flowcv.com/resume/snqp93nika)
-- How to reach me **joaosaintjust@hotmail.com**
+- You can call me "Saint", but my first name is João.
+- I’m currently learning **Python and Django** and aim to delve deeper into Back-end development.
+- Checkout my portfolio [link](https://troopl.com/joaosaint).
+- I’m currently open for a new job opportunity, this is [my resume](https://flowcv.com/resume/snqp93nika).
+- How to reach me **joaosaintjust@hotmail.com**.
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
