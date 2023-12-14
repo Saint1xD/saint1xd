@@ -5,8 +5,6 @@
 ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
-
 - You can call me "Saint", but my first name is João.
 - I’m currently learning **Python and Django** and aim to delve deeper into Back-end development.
 - Checkout my portfolio [link](https://troopl.com/joaosaint).
