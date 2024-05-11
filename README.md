@@ -7,7 +7,7 @@
 
 - You can call me "**Saint**", but my first name is "João"
 - Checkout my portfolio [link](https://troopl.com/joaosaint)
-- You can mail me at **joaosaintjust@hotmail.com**
+- You can mail me at **contato.saint1xd@gmail.com**
 
 <br>
 
